@@ -23,11 +23,11 @@
   }
   button{
     padding: 10px 20px;
-    background-color: gray;
+    background-color: rgb(49, 146, 112);
     color: #fff;
     border-radius: 5px;
     cursor: pointer;
-    border:none
+    border-radius: 5px;
   }
   .styled-table{
     text-align: center;
