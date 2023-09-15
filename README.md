@@ -1,1 +1,1 @@
-# NeedForCode-Team26
+# NeedForCode-Team26 Syntax Squad
