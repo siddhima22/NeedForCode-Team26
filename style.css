@@ -1,0 +1,104 @@
+.container{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+  }
+  .form-group{
+    margin: 20px 0;
+    text-align: left;
+  }
+  label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  input[type='number']{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border:solid 1px gray;
+    margin-bottom: 20px;
+  }
+  button{
+    padding: 10px 20px;
+    background-color: gray;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    border:none
+  }
+  .styled-table{
+    text-align: center;
+    border-collapse: collapse;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(117, 27, 27, 0.15);
+  }
+  .myWrapTable td{
+    border: solid 1px gray;
+    padding: 5px 10px;
+  }
+
+  h1 {
+    font-size: 70px;
+    font-weight: 600;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(155,211,158,1) 35%, rgba(0,212,255,1) 100%);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+  #Result {
+    padding-top: 18px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px; 
+    color: #333;   
+  }
+
+  .styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+body {
+   background-color: #fff7f7;
+  }
+  
